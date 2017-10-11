@@ -15,10 +15,10 @@ h2 {
   font-family: sans-serif;
 }
 
-h1 "logo" {
+h1 logo {
   text-transform: uppercase;
 }
 
-main class="wrapper" {
+main class wrapper {
   background-color: #eee8d5;
 }
