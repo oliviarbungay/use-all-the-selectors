@@ -13,6 +13,7 @@ ul nav {
 h2 {
 
   font-family: sans-serif;
+  color: #93a1a1;
 }
 
 h1 {
@@ -21,22 +22,6 @@ h1 {
 
 main {
   background-color: #eee8d5;
-}
-
-content {
-  color: #93a1a1;
-}
-
-favs {
-  color: #93a1a1;
-}
-
-facts {
-  color: #93a1a1;
-}
-
-types {
-  color: #93a1a1;
 }
 
 div {
