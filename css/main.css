@@ -15,10 +15,16 @@ h2 {
   font-family: sans-serif;
 }
 
-h1 logo {
+h1 {
   text-transform: uppercase;
 }
 
-main class wrapper {
+main {
   background-color: #eee8d5;
 }
+
+#contents
+#favs
+#facts
+#types {
+  color: #93a1a1;
