@@ -18,3 +18,7 @@ h2 {
 h1 "logo" {
   text-transform: uppercase;
 }
+
+main class="wrapper" {
+  background-color: #eee8d5;
+}
