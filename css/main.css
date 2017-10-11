@@ -23,8 +23,6 @@ main {
   background-color: #eee8d5;
 }
 
-#contents
-#favs
-#facts
-#types {
+content {
   color: #93a1a1;
+}
